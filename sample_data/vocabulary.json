@@ -1,0 +1,47 @@
+{
+    "vocabulary" : {
+      "-MjHMH37TtaiYP-hmiMO" : {
+        "definition" : "where a string of commands – usually a program – is separated into more easily processed components, which are analyzed for correct syntax and then attached to tags that define each component.",
+        "firebaseKey" : "-MjHMH37TtaiYP-hmiMO",
+        "language" : "Javascript",
+        "title" : "Parse",
+        "user_ID" : "007"
+      },
+      "-MjHMq3PslZFV9vspeAK" : {
+        "definition" : "the process of verifying the identity of a person or device",
+        "firebaseKey" : "-MjHMq3PslZFV9vspeAK",
+        "language" : "computer",
+        "title" : "Authenticate",
+        "user_ID" : "007"
+      },
+      "-MjHNA2Zeh01xB_W6CzO" : {
+        "definition" : "debugging is the process of finding and resolving bugs within computer programs, software, or systems.",
+        "firebaseKey" : "-MjHNA2Zeh01xB_W6CzO",
+        "language" : "programming",
+        "title" : "debug",
+        "user_ID" : "007"
+      },
+      "-MjHNS7iDpukpZrj9COX" : {
+        "definition" : "boolean or bool is a data type with two possible values: true or false.",
+        "firebaseKey" : "-MjHNS7iDpukpZrj9COX",
+        "language" : "programming",
+        "title" : "Boolean",
+        "user_ID" : "007"
+      },
+      "-MjHNchKjA0zQW2VKpMH" : {
+        "definition" : "cascading refers to the process of performing multiple operations/tasks in a single line of programming code",
+        "firebaseKey" : "-MjHNchKjA0zQW2VKpMH",
+        "language" : "HTML and CSS programming",
+        "title" : "cascading",
+        "user_ID" : "007"
+      },
+      "-MjHNlwElObbtYPTe5Z7" : {
+        "definition" : "variables are used to store information to be referenced and used by programs.",
+        "firebaseKey" : "-MjHNlwElObbtYPTe5Z7",
+        "language" : "programming",
+        "title" : "variable",
+        "user_ID" : "007"
+      }
+    }
+  }
+  
